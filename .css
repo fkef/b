@@ -1,0 +1,34 @@
+
+html{
+    background-color: blue;
+}
+h1{ color: white;}
+
+h1{
+    text-align: center;
+    width: 900px;
+}
+img{
+    float: left;
+    width:520px;
+}
+p{
+ 
+    color: white;
+    height: 50%;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 100px;
+}
+svg{color: white;}
+h1{
+    font-family: Georgia, serif;
+}
+input{
+    text-align: center;
+}
+
+.center{
+    margin: 0 auto;
+    width: 900px;
+    display: block;;
+}
